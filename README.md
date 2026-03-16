@@ -49,3 +49,8 @@ npm run dev
 - Integrasi auth (email/password atau OAuth).
 - Setup tabel awal: `trips`, `bookings`, `profiles`, `payments`.
 - Implementasi halaman katalog trip, detail trip, checkout, dan dashboard booking.
+
+
+
+okee
+ test git
